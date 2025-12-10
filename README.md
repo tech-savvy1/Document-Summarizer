@@ -20,7 +20,7 @@ It combines traditional NLP (TF-IDF, Logistic Regression, spaCy) with modern dee
 
 Clone the repository:
 ```bash
-git clone https://github.com/shaunak-alt/document-summarizer
+git clone https://github.com/tech-savvy1/document-summarizer
 cd document-summarizer
 ```
 
